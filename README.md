@@ -5,4 +5,4 @@ SimpleSceneTest
 
 This is a simple scene switching test.
 
-This project was created with Unity 2022.2.
+This project was created with Unity 2021.2.
